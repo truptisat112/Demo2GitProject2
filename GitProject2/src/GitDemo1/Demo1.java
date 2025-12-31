@@ -16,10 +16,14 @@ public class Demo1 {
 	public void m4() {
 		System.out.println("This is a m4 method");
 	}
+		public void m5() {
+		System.out.println("This is a m5 method");
+	}
  public static void main(String args[]) {
 	 System.out.println("This a main method for Demo class");
  }
 }
+
 
 
 
